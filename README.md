@@ -5,7 +5,7 @@ I made this project just for fun, it is a simple Plants VS Zombies game develope
 
 ### Gameplay and Features
 
-https://user-images.githubusercontent.com/112988540/192851992-0380e107-6b7f-490a-a0d8-cf54011cd817.mp4
+https://user-images.githubusercontent.com/112988540/192853050-a69bd104-b3a4-4678-8680-64f4a958e31f.mp4
 
 ** Sound effects and music were not captured in the video **
 
