@@ -5,6 +5,7 @@ I made this project just for fun, it is a simple Plants VS Zombies game develope
 
 ### Gameplay and Features
 - Add video of game here
+
 Description: This 2d plants vs zombies game consists of a small garden tile map along with 6 different plants that can be purchased and put on the garden
 to fight against the oncoming zombies. Both peashooters will help fight from long range with pea projectiles, while the cherry and mineplant will fight 
 melee style. Use the sunflower and walnut to stop oncoming enemies and increase your sun count. The 4 types of zombies come at you in waves for each level
